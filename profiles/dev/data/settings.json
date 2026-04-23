@@ -1,0 +1,45 @@
+{
+    "workbench.startupEditor": "none",
+    "files.autoSave": "afterDelay",
+    "editor.unicodeHighlight.nonBasicASCII": true,
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "workbench.colorTheme": "Default Dark Modern",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "Default Dark Modern",
+    "workbench.preferredLightColorTheme": "Default Light Modern",
+    "terminal.integrated.initialHint": false,
+    "git.autofetch": "all",
+    "git.defaultBranchName": "",
+    "git.fetchOnPull": true,
+    "git.enableCommitSigning": true,
+    "git.pruneOnFetch": true,
+    "rainbow_csv.virtual_alignment_mode": "manual",
+    "rainbow_csv.virtual_alignment_char": "space",
+    "rainbow_csv.highlight_rows": true,
+    "[csv]": {
+        "editor.inlayHints.maximumLength": 0,
+        "editor.inlayHints.enabled": "onUnlessPressed"
+    },
+    "files.associations": {
+        ".clangd": "yaml"
+    },
+    "continue.enableTabAutocomplete": false,
+    "continue.enableNextEdit": false,
+    "editor.fontFamily": "Fira Code, 'Droid Sans Mono', monospace",
+    "editor.fontLigatures": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyleInactive": "line",
+    "git.allowForcePush": true,
+    "syncSettings.resources": [
+        "extensions",
+        "keybindings",
+        "settings",
+        "snippets"
+    ],
+    "syncSettings.crons": {
+        "upload": "0 10 * * *"
+    },
+}
