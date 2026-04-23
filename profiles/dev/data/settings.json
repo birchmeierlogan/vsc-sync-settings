@@ -40,6 +40,6 @@
         "snippets"
     ],
     "syncSettings.crons": {
-        "upload": "0 10 * * *"
+        "review": "0 * * * *"
     },
 }
