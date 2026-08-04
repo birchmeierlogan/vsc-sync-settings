@@ -20,6 +20,9 @@
         "editor.inlayHints.maximumLength": 0,
         "editor.inlayHints.enabled": "onUnlessPressed"
     },
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
     "files.associations": {
         ".clangd": "yaml"
     },
