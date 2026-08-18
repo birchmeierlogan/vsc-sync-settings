@@ -23,6 +23,7 @@
     "[python]": {
         "editor.defaultFormatter": "charliermarsh.ruff"
     },
+    "python.terminal.activateEnvironment": true,
     "files.associations": {
         ".clangd": "yaml"
     },
