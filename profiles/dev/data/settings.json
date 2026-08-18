@@ -43,4 +43,7 @@
     "syncSettings.crons": {
         "review": "0 * * * *"
     },
+    "cSpell.userWords": [
+        "Birchmeier"
+    ],
 }
