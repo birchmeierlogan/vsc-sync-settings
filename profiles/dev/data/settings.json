@@ -26,8 +26,6 @@
     "files.associations": {
         ".clangd": "yaml"
     },
-    "continue.enableTabAutocomplete": false,
-    "continue.enableNextEdit": false,
     "editor.fontFamily": "Fira Code, 'Droid Sans Mono', monospace",
     "editor.fontLigatures": true,
     "diffEditor.hideUnchangedRegions.enabled": true,
